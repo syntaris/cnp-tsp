@@ -7,7 +7,7 @@ This repository contains the reference implementation of a **cNP (Constructive N
 
 The following visualization demonstrates the core principle of the cNP class: The simultaneous emergence of a geographical fixed point and its corresponding structural resonance.
 
-**
+![Experimental Proof of Fixpoint Emergence](Figure.jpg)
 
 ## 2. Theoretical Foundation: The cNP Class
 
